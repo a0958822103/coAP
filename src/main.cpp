@@ -8,7 +8,7 @@ const char* ssid     = "test_AP";
 const char* password = "passwordis123";
 
 // --- Raspberry Pi 設定 ---
-const char* server_ip = "192.168.4.10"; 
+const char* server_ip = "192.168.4.1"; 
 const int server_port = 5683;
 const char* endpoint  = "battery";       // 對應 Pi 上的 root.add_resource(['battery'], ...)
 

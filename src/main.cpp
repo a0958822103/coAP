@@ -4,7 +4,7 @@
 #include <coap-simple.h>
 
 // --- 網路設定 ---
-const char* ssid     = "pi5_AP";
+const char* ssid     = "test_AP";
 const char* password = "passwordis1234";
 
 // --- Raspberry Pi 設定 ---
